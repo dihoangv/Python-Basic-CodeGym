@@ -1,0 +1,5 @@
+donkey:con lừa
+lion:sư tử
+apple:quả táo
+monkey:con khỉ
+book:quyển sách
